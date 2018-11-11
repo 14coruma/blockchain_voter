@@ -1,5 +1,7 @@
 # Chain-Voting
 Blockchain voting project for MadHacks 2018
+**Note**: current working branch is `combine_database_and_voter`
+
 
 # Contributers:
 1. Andrew Corum
